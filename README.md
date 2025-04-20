@@ -68,7 +68,16 @@ Entrenar un modelo capaz de predecir el subtipo de tumor cerebral presente en un
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
-Este proyecto se realiza de forma individual como parte de un curso universitario de Machine Learning.
+**Andrés Arroyave Carmona**  
+✉️ andres.arroyavec1@udea.edu.co  
+🔗 [https://github.com/EndymionK](https://github.com/EndymionK)
 
+**Andrés Felipe Calvo Ariza**  
+✉️ andres.calvoa@udea.edu.co  
+🔗 [https://github.com/andres-calvo](https://github.com/andres-calvo)
+
+**Jair Santiago Leal Miranda**  
+✉️ jair.leal@udea.edu.co  
+🔗 [https://github.com/Jairleal14](https://github.com/Jairleal14)
