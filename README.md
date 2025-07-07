@@ -18,7 +18,7 @@ La detección y clasificación de tumores cerebrales es un problema crítico en 
 
 Entrenar un modelo capaz de predecir el subtipo de tumor cerebral presente en una imagen de MRI con evidencia de tumor:
 
-- **Entrada**: Imagen MRI 512x512 px
+- **Entrada**: Imagen MRI 224x224 px
 - **Salida**: Clase predicha — Glioma, Meningioma o Tumor genérico
 
 ---
@@ -32,7 +32,7 @@ Entrenar un modelo capaz de predecir el subtipo de tumor cerebral presente en un
   - Brain_Glioma: 2,004 imágenes  
   - Brain_Menin (Meningioma): 2,004 imágenes  
   - Brain Tumor: 2,048 imágenes  
-- **Resolución**: 512x512 px  
+- **Resolución**: 224x224 px  
 - **Tamaño estimado**: ~2.2 GB
 
 ---
@@ -62,9 +62,9 @@ Entrenar un modelo capaz de predecir el subtipo de tumor cerebral presente en un
 
 ---
 
-## 📌 Estado del Proyecto
+## 📌 Video
 
-📍 En desarrollo — primera iteración en curso.
+📍 [https://www.youtube.com/watch?v=9XnxZyjYLic&ab_channel=ANDRESFELIPECALVOARIZA](https://www.youtube.com/watch?v=9XnxZyjYLic&ab_channel=ANDRESFELIPECALVOARIZA)
 
 ---
 
